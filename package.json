@@ -11,8 +11,9 @@
     "type": "git",
     "url": "fcc-backend-2"
   },
-  "description": "",
+  "description": "npm tutorial",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
